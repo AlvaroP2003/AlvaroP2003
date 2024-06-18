@@ -2,7 +2,7 @@
 
 I'm a hardworking software development student with a love for coding, problem-solving and innovative designs. I'm currenlty enrolled in a Software Development Course at Codespace Academy and previously completed a Programming Foundation course at CTU Training Solutions. 
 
-About Me
+<h3> About Me </h3>
 <ul>
   <li> Currenly Studying: Software Debelopment </li>
   <li> Future Studies: Javascript Engineering </li>
@@ -11,7 +11,7 @@ About Me
   <li> Hobbies: Coding, Sport & Fitness, Entrepreneurship </li>
 </ul>
 
-Skills
+<h3 >Skills </h3>
 <ul>
   <li>Web Development: HTML, CSS [ Tailwind & Bootstrap ] , Javascipt & Python </li>
 </ul>
@@ -23,10 +23,7 @@ Skills
 
 
 
-
-
-
-My Socials
+<h3> My Socials </h3>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width ="50" height="50">
 
