@@ -26,7 +26,7 @@ I'm a hardworking software development student with a love for coding, problem-s
 <h3> My Socials </h3>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width ="50" height="50">
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width ="50" height="50">
 <!--
 **AlvaroP2003/AlvaroP2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
