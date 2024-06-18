@@ -13,7 +13,9 @@ I'm a hardworking software development student with a love for coding, problem-s
 
 <h3 >Skills </h3>
 <ul>
-  <li>Web Development: HTML, CSS [ Tailwind & Bootstrap ] , Javascipt & Python </li>
+  <li> HMTL & CSS </li>
+  <li> JAVASCRIPT & PYTHON </li>
+  <li> CSS Fraweworks [ Tailwind & Bootstrap ] </li>
 </ul>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50">
