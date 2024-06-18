@@ -16,10 +16,18 @@ Skills
   <li>Web Development: HTML, CSS [ Tailwind & Bootstrap ] , Javascipt & Python </li>
 </ul>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg?short_path=fcf9ff5" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width ="50" height="50">
+<img src="" width ="50" height="50">
+
+
+
+
 
 
 
 My Socials
+
+<img src="" width ="50" height="50">
 
 <!--
 **AlvaroP2003/AlvaroP2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
