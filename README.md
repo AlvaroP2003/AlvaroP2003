@@ -22,8 +22,7 @@ I'm a hardworking software development student with a love for coding, problem-s
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width ="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width ="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width ="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width ="50" height="50">" width ="50" height="50">
-</div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="50" width="50">
 
 
 
