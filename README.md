@@ -27,7 +27,7 @@ Skills
 
 My Socials
 
-<img src="" width ="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width ="50" height="50">
 
 <!--
 **AlvaroP2003/AlvaroP2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
