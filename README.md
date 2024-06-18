@@ -14,7 +14,7 @@ About Me
 Skills
 <ul>
   <li>Web Development: HTML, CSS [ Tailwind & Bootstrap ] , Javascipt & Python </li>
-</ul>[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+</ul>[![My Skills](https://skillicons.dev/icons html, css, javascript wasm)](https://skillicons.dev)
 
 My Socials
 
