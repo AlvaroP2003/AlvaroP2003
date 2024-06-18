@@ -15,10 +15,11 @@ Skills
 <ul>
   <li>Web Development: HTML, CSS [ Tailwind & Bootstrap ] , Javascipt & Python </li>
 </ul>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg?short_path=fcf9ff5" width="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width ="50" height="50">
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width ="50" height="50">
-
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg?short_path=fcf9ff5" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width ="50" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width ="50" height="50">
+</div>
 
 
 
