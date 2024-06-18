@@ -4,10 +4,19 @@ I'm a hardworking software development student with a love for coding, problem-s
 
 About Me
 <ul>
-  <li>Currenly Learning CSS Frameworks</li>
-  <li></li>
-  <li></li>
+  <li> Currenly Studying: Software Debelopment </li>
+  <li> Future Studies: Javascript Engineering </li>
+  <li> Projects: Blackjack Card Game [ HTML, CSS & JS ] , Basic Website for Security Company </li>
+  <li> Currenly Learning: CSS Frameworks [ Tailwind, Bootstrap etc. ] </li>
+  <li> Hobbies: Coding, Sport & Fitness, Entrepreneurship </li>
 </ul>
+
+Skills
+<ul>
+  <li>Web Development: HTML, CSS [ Tailwind & Bootstrap ] , Javascipt & Python </li>
+</ul>[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+My Socials
 
 <!--
 **AlvaroP2003/AlvaroP2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
