@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋 I am Alvaro Placido
+
+I'm a hardworking software development student with a love for coding, problem-solving and innovative designs. I'm currenlty enrolled in a Software Development Course at Codespace Academy and previously completed a Programming Foundation course at CTU Training Solutions. 
+
+About Me
+<ul>
+  <li>Currenly Learning CSS Frameworks</li>
+  <li></li>
+  <li></li>
+</ul>
 
 <!--
 **AlvaroP2003/AlvaroP2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
