@@ -1,7 +1,10 @@
-**Hey there! I'm Alvaro Placido 👋**  
+**Hey there! I'm Alvaro Placido 👋**
+### Sofware Developer | Freelancer
 
-<h3> About Me </h3>
-<p>Sofware Developer | Freelance </p>
+### 👨‍💻 About Me  
+Passionate about building modern and responsive web applications.  
+I specialize in front-end development with React, TypeScript, and Tailwind CSS.  
+Currently freelancing and always open to new opportunities!
 
 ### 🛠️ Tech Stack  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
