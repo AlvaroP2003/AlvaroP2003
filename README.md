@@ -11,23 +11,15 @@
 </ul>
 
 <h3 >Skills </h3>
-<ul>
-  <li> HMTL & CSS </li>
-  <li> JAVASCRIPT & PYTHON </li>
-  <li> CSS Fraweworks [ Tailwind & Bootstrap ] </li>
-</ul>
-<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width ="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width ="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width ="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width ="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="50" width="50">
 
 
 
-<h3> My Socials </h3>
-
+<h3> My Socials </h3
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width ="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width ="50" height="50">
 <!--
