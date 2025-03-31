@@ -1,6 +1,6 @@
-## Hi there 👋 I am Alvaro Placido
+![wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)  
+**Hey there! I'm Alvaro Placido 👋**  
 
-I'm a hardworking software development student with a love for coding, problem-solving and innovative designs. I'm currenlty enrolled in a Software Development Course at Codespace Academy and previously completed a Programming Foundation course at CTU Training Solutions. 
 
 <h3> About Me </h3>
 <ul>
