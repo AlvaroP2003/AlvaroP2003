@@ -1,7 +1,7 @@
 **Hey there! I'm Alvaro Placido 👋**  
 
 <h3> About Me </h3>
-<p>I am a S</p>
+<p>Sofware Developer | Freelance </p>
 
 ### 🛠️ Tech Stack  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
