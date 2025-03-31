@@ -13,8 +13,11 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-<h3> My Socials </h3
-<a href='https://www.linkedin.com/in/alvaro-placido-226887206/'><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width ="50" height="50"></a>
+### 📫 Let's Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=web&logoColor=white)](https://yourportfolio.com)  
+
 <!--
 **AlvaroP2003/AlvaroP2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
