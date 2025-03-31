@@ -1,23 +1,14 @@
 **Hey there! I'm Alvaro Placido 👋**  
 
-
 <h3> About Me </h3>
-<ul>
-  <li> Currenly Studying: Software Debelopment </li>
-  <li> Future Studies: Javascript Engineering </li>
-  <li> Projects: Blackjack Card Game [ HTML, CSS & JS ] , Basic Website for Security Company </li>
-  <li> Currenly Learning: CSS Frameworks [ Tailwind, Bootstrap etc. ] </li>
-  <li> Hobbies: Coding, Sport & Fitness, Entrepreneurship </li>
-</ul>
+<p>I am a S</p>
 
-<h3 >Skills </h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width ="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width ="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width ="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="50" width="50">
-
-
+### 🛠️ Tech Stack  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
 
 <h3> My Socials </h3
 <a href='https://www.linkedin.com/in/alvaro-placido-226887206/'><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width ="50" height="50"></a>
