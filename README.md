@@ -1,4 +1,3 @@
-![wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)  
 **Hey there! I'm Alvaro Placido 👋**  
 
 
@@ -21,7 +20,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width ="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width ="50" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width ="50" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width ="50" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width ="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="50" width="50">
 
 
