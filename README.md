@@ -1,5 +1,5 @@
-**Hey there! I'm Alvaro Placido 👋**
-### Sofware Developer | Freelancer
+### Hey there! I'm Alvaro Placido 👋
+**Sofware Developer | Freelancer**
 
 ## 👨‍💻 About Me  
 Passionate about building modern and responsive web applications.  
