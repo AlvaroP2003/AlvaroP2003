@@ -1,5 +1,6 @@
 ### Hey there! I'm Alvaro Placido 👋
-**Sofware Developer | Freelancer**
+
+**Software Engineer / Freelancer**
 
 ## 👨‍💻 About Me  
 Passionate about building modern and responsive web applications.  
@@ -17,7 +18,7 @@ Currently freelancing and always open to new opportunities!
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+<a href="https://www.linkedin.com/in/alvaro-placido-226887206/">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)</a>
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=web&logoColor=white)](https://yourportfolio.com)
 
