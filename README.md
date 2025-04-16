@@ -1,4 +1,4 @@
-### Hey there! I'm Alvaro Placido 👋
+# Hey there! I'm Alvaro Placido 👋
 
 **Software Engineer / Freelancer**
 
@@ -6,6 +6,7 @@
 Passionate about building modern and responsive web applications.  
 I specialize in front-end development with React, TypeScript, and Tailwind CSS.  
 Currently freelancing and always open to new opportunities!
+
 
 ## 🛠️ Tech Stack  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -17,12 +18,14 @@ Currently freelancing and always open to new opportunities!
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+
 ## 🧠 Currently Learning
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
 
 ## 📫 Let's Connect  
 <a href="https://www.linkedin.com/in/alvaro-placido-226887206/">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)</a>
