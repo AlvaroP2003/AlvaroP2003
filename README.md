@@ -1,5 +1,5 @@
-# Hey there! I'm Alvaro Placido 👋
-👋 Friendly Wave
+# Hey there! I'm Alvaro Placido ![Friendly Wave](https://giphy.com/gifs/pixel-wave-26xBKqeFFqZQS1fjy)
+
 
 **Software Engineer / Freelancer**
 
