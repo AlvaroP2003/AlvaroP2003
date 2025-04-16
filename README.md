@@ -1,9 +1,4 @@
-# Hey there! I'm Alvaro Placido
-![Friendly Wave](https://media.giphy.com/media/26xBKqeFFqZQS1fjy/giphy.gif)
-
-
-
-
+# Hey there! I'm Alvaro Placido ⚡
 **Software Engineer / Freelancer**
 
 ## 👨‍💻 About Me  
