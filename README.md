@@ -1,4 +1,5 @@
 # Hey there! I'm Alvaro Placido 👋
+👋 Friendly Wave
 
 **Software Engineer / Freelancer**
 
