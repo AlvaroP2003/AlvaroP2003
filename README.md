@@ -1,5 +1,6 @@
 # Hey there! I'm Alvaro Placido
-![Friendly Wave](https://giphy.com/gifs/pixel-wave-26xBKqeFFqZQS1fjy)
+![Friendly Wave](https://media.giphy.com/media/26xBKqeFFqZQS1fjy/giphy.gif)
+
 
 
 
