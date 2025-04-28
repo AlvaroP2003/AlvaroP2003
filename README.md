@@ -6,6 +6,10 @@ Passionate about building modern and responsive web applications.
 I specialize in front-end development with React, TypeScript, and Tailwind CSS.  
 Currently freelancing and always open to new opportunities!
 
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroP2003&show_icons=true&theme=radical)
+
 
 ## 🛠️ Tech Stack  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
