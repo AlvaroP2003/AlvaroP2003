@@ -31,7 +31,9 @@ Currently freelancing and always open to new opportunities!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroP2003&layout=compact&theme=tokyonight)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroP2003&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlvaroP2003&theme=tokyonight)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlvaroP2003)](https://github.com/AlvaroP2003)
 
 
 ## 📫 Let's Connect  
