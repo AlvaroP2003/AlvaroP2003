@@ -8,9 +8,9 @@ Currently freelancing and always open to new opportunities!
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroP2003&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroP2003&layout=compact&theme=tokyonight)
+![AlvaroPlacido's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroPlacido&show_icons=true&theme=tokyonight&count_private=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroPlacido&layout=compact&theme=tokyonight)
 
 
 ## 🛠️ Tech Stack  
