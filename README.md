@@ -6,12 +6,6 @@ Passionate about building modern and responsive web applications.
 I specialize in front-end development with React, TypeScript, and Tailwind CSS.  
 Currently freelancing and always open to new opportunities!
 
-## 📊 GitHub Stats
-
-![AlvaroPlacido's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroP2003&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroP2003&layout=compact&theme=tokyonight)
-
 
 ## 🛠️ Tech Stack  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -31,6 +25,11 @@ Currently freelancing and always open to new opportunities!
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+## 📊 GitHub Stats
+
+![AlvaroPlacido's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroP2003&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroP2003&layout=compact&theme=tokyonight)
 
 ## 📫 Let's Connect  
 <a href="https://www.linkedin.com/in/alvaro-placido-226887206/">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)</a>
