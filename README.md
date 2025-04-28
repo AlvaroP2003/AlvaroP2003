@@ -27,11 +27,10 @@ Currently freelancing and always open to new opportunities!
 
 ## 📊 GitHub Stats
 
-![AlvaroPlacido's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroP2003&show_icons=true&theme=tokyonight&count_private=true)
-
+![AlvaroPlacido's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroP2003&show_icons=true&theme=tokyonight&count_private=true)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlvaroP2003&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroP2003&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlvaroP2003&theme=tokyonight)
+
 
 
 
