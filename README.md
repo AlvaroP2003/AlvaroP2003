@@ -31,6 +31,9 @@ Currently freelancing and always open to new opportunities!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroP2003&layout=compact&theme=tokyonight)
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroP2003&show_icons=true&theme=tokyonight&count_private=true)
+
+
 ## 📫 Let's Connect  
 <a href="https://www.linkedin.com/in/alvaro-placido-226887206/">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)</a>
 <a href="https://discordapp.com/users/1090206007612944444">[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)</a>
