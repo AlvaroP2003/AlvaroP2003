@@ -33,7 +33,6 @@ Currently freelancing and always open to new opportunities!
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlvaroP2003&theme=tokyonight)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AlvaroP2003)](https://github.com/AlvaroP2003)
 
 
 ## 📫 Let's Connect  
