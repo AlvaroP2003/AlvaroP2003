@@ -34,7 +34,6 @@ Currently freelancing and always open to new opportunities!
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AlvaroP2003&theme=tokyonight)
 ![AlvaroPlacido's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroP2003&show_icons=true&theme=tokyonight&count_private=true) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroP2003&layout=compact&theme=tokyonight)
 
