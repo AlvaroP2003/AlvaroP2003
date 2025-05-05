@@ -1,4 +1,4 @@
-# Hey there! I'm Alvaro Placido ⚡
+# Alvaro Placido ⚡
 **Software Engineer
 Passionate about building modern and responsive web applications.  
 I specialize in front-end development with React, TypeScript, and Tailwind CSS.  
