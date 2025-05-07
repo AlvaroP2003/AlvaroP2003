@@ -26,7 +26,7 @@ Currently freelancing and always open to new opportunities!**
 
 
 ## 📫 Let's Connect  
-<a href="https://www.linkedin.com/in/alvaro-placido-226887206/">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)</a>
+<a href=["https://www.linkedin.com/in/alvaro-placido-226887206/]">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)</a>
 <a href="https://discordapp.com/users/1090206007612944444">[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)</a>
 <a href="[https://alvaro-placido.netlify.app](https://alvaro-placido.netlify.app/)">[![Personal Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=web&logoColor=white)](https://yourportfolio.com)</a>
 
