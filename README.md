@@ -29,15 +29,12 @@ Currently freelancing and always open to new opportunities!**
 <a href="https://www.linkedin.com/in/alvaro-placido-226887206/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-
 <a href="https://discordapp.com/users/1090206007612944444" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord">
 </a>
-
 <a href="https://alvaro-placido.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=web&logoColor=white" alt="Portfolio">
 </a>
-
 
 
 ## 📊 GitHub Stats
