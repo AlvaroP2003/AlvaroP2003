@@ -5,6 +5,7 @@ I specialize in front-end development with React, TypeScript, and Tailwind CSS.
 Currently freelancing and always open to new opportunities!**
 
 
+
 ## Tech Stack  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -18,12 +19,14 @@ Currently freelancing and always open to new opportunities!**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 
+
 ## Currently Learning
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
 
 
 ## Let's Connect  
@@ -36,6 +39,7 @@ Currently freelancing and always open to new opportunities!**
 <a href="https://alvaro-placido.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=web&logoColor=white" alt="Portfolio">
 </a>
+
 
 
 ## GitHub Stats
