@@ -5,7 +5,7 @@ I specialize in front-end development with React, TypeScript, and Tailwind CSS.
 Currently freelancing and always open to new opportunities!**
 
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -18,7 +18,7 @@ Currently freelancing and always open to new opportunities!**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 
-## 🧠 Currently Learning
+## Currently Learning
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
@@ -26,7 +26,7 @@ Currently freelancing and always open to new opportunities!**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 
-## 📫 Let's Connect  
+## Let's Connect  
 <a href="https://www.linkedin.com/in/alvaro-placido-226887206/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
@@ -38,7 +38,7 @@ Currently freelancing and always open to new opportunities!**
 </a>
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![AlvaroPlacido's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroP2003&show_icons=true&theme=tokyonight&count_private=true) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroP2003&layout=compact&theme=tokyonight)
