@@ -2,7 +2,6 @@
 ### Software Developer
 Passionate about building modern and responsive web applications.  
 I specialize in front-end development with React, TypeScript, and Tailwind CSS.  
-Currently freelancing and always open to new opportunities!**
 
 
 
