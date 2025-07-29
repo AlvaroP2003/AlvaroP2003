@@ -1,7 +1,8 @@
 # Alvaro Placido 
 ### Software Developer
-Passionate about building modern and responsive web applications.  
-I specialize in front-end development with React, TypeScript, and Tailwind CSS.  
+I’m all about turning ideas into something real.
+Whether it’s a project, a design, or just a new way of thinking — I like to build with purpose and curiosity.
+Stick around if you’re into that.  
 
 
 
