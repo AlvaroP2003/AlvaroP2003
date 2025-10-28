@@ -36,9 +36,6 @@ Stick around if you’re into that.
 <a href="https://discordapp.com/users/1090206007612944444" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord">
 </a>
-<a href="https://alvaro-placido.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=web&logoColor=white" alt="Portfolio">
-</a>
 
 
 
