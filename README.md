@@ -28,7 +28,10 @@ Stick around if you’re into that.
 
 
 
-## Let's Connect  
+## Let's Connect
+<a href="https://alisolutions.co.za" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio">
+</a>
 <a href="https://www.linkedin.com/in/alvaro-placido-226887206/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
